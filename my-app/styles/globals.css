@@ -242,10 +242,13 @@ span.text-red {
 }
 .footer-banner-image {
   position: absolute;
-  top: -35%;
+  /* top: -35%;
   left: 8%;
   top: -25%;
-  left: 25%;
+  left: 25%; */
+  top: -3%;
+  left: 37%;
+  height: 27rem;
 }
 .banner-desc .right {
   line-height: 1.4;
